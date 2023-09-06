@@ -13,3 +13,9 @@ person 联系人姓名列表
 date 短信日期
 body 短信内容
 type 短信类型（ALL=0，INBOX=1,SEND=2,DRAFT = 3，OUTBOX = 4，FAILED = 5，QUEUED = 6）
+
+联系人的
+https://developer.android.google.cn/reference/android/provider/ContactsContract.Data
+ ![image](https://github.com/PKG2-0/TempFile/assets/37244096/bf49a91f-f59e-4b44-a088-619b45781c02)
+每个里面展开也有不同类型，我们可以按需求来看要不要展开
+ ![image](https://github.com/PKG2-0/TempFile/assets/37244096/ea01e63d-bcbc-46fd-82d1-4b9be52057ff)
